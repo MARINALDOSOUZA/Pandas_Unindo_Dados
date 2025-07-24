@@ -8,6 +8,8 @@ import matplotlib.ticker as mticker
 # --- Configurações de Caminhos e Nomes de Arquivo ---
 # Definindo os caminhos para os arquivos de entrada e nomes para os arquivos CSV intermediários e finais.
 # É uma boa prática centralizar essas configurações para facilitar a manutenção.
+# Link do arquivo original: https://cdn3.gnarususercontent.com.br/2927-pandas-selecao-agrupamento-dados/POP2022_Municipios.xls
+# Link do arquivo original: https://cdn3.gnarususercontent.com.br/2927-pandas-selecao-agrupamento-dados/1-SEEG10_GERAL-BR_UF_2022.10.27-FINAL-SITE.xlsx
 path_pop = r"D:\Python para Data Science\POP2022_Municipios.xls"
 path_emissoes = r"D:\Python para Data Science\1-SEEG10_GERAL-BR_UF_2022.10.27-FINAL-SITE.xlsx"
 sheet_emissoes = "GEE Estados"
